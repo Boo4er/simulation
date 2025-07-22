@@ -4,15 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5955357d-0e84-45ae-beed-a5d7806e0153" name="Changes" comment="create the project">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/boo4er/Creature.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/boo4er/Herbivore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/boo4er/Map.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/boo4er/Predator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/boo4er/Simulation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="5955357d-0e84-45ae-beed-a5d7806e0153" name="Changes" comment="added class sceleton">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/boo4er/Entity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/boo4er/Entity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/boo4er/Entity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/boo4er/Herbivore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/boo4er/Herbivore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/boo4er/Map.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/boo4er/WorldMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/boo4er/Predator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/boo4er/Predator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,12 +37,12 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -78,6 +75,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="create the project" />
-    <option name="LAST_COMMIT_MESSAGE" value="create the project" />
+    <MESSAGE value="added class sceleton" />
+    <option name="LAST_COMMIT_MESSAGE" value="added class sceleton" />
   </component>
 </project>
