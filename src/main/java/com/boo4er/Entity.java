@@ -1,6 +1,6 @@
-package org.example;
+package com.boo4er;
 
-public class Main {
+public class Entity {
     public static void main(String[] args) {
         System.out.println("Hello world!");
     }
