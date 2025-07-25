@@ -4,12 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5955357d-0e84-45ae-beed-a5d7806e0153" name="Changes" comment="added class sceleton">
+    <list default="true" id="5955357d-0e84-45ae-beed-a5d7806e0153" name="Changes" comment="added class logic">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/boo4er/Coordinates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/boo4er/File.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/boo4er/Entity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/boo4er/Entity.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/boo4er/Herbivore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/boo4er/Herbivore.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/boo4er/Map.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/boo4er/WorldMap.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/boo4er/Predator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/boo4er/Predator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/boo4er/WorldMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/boo4er/WorldMap.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +22,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Enum" />
       </list>
     </option>
   </component>
@@ -29,6 +32,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
   <component name="ProjectId" id="2zzT5X7vHZ7tPLLKoBRgTjPQdRT" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -37,12 +43,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/workspace-backend/simulation"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.boo4er" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -59,7 +74,14 @@
       <option name="project" value="LOCAL" />
       <updated>1752732758069</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="added class logic">
+      <created>1753162867926</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1753162867926</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -76,6 +98,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="create the project" />
     <MESSAGE value="added class sceleton" />
-    <option name="LAST_COMMIT_MESSAGE" value="added class sceleton" />
+    <MESSAGE value="added class logic" />
+    <option name="LAST_COMMIT_MESSAGE" value="added class logic" />
   </component>
 </project>

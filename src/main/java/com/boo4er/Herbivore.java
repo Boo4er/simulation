@@ -2,11 +2,12 @@ package com.boo4er;
 
 public class Herbivore extends Creature{
 
-    //coordinates
-    //hp
-    //-hp
-    //make move
-    //eat grass
-    //+hp
+    //имеет координаты
+    //имеет жизни
+    //теряет жизни каждый ход
+    //делает ходы
+    //ест траву
+    //востанавливает жизни когда ест траву
+    //теряет жизни при нападении хищника
     //
 }

@@ -1,13 +1,17 @@
 package com.boo4er;
 
-import com.sun.source.tree.Tree;
 
-public class Entity {
-    public static void main(String[] args) {
-        System.out.println("Hello world!");
-    }
-    //Grass
-    //Rock
-    // Tree
-
+public abstract class Entity {
+public static class Grass{
+    //имеет координаты
+    //растет 5 ходов
+    //не двигается
+    //восстанавливает 20hp
+}
+public static class Rock{
+    // имеет координаты
+}
+public static class Tree{
+    //имеет координаты
+}
 }
